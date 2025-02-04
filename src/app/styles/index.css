@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+
+.homePage {
+  margin: 100px;
+  color: red;
+}
